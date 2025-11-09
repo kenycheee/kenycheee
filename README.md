@@ -113,5 +113,12 @@ Lets users easily check availability, reserve courts, and manage schedules — m
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kenycheee&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenycheee&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kenycheee&label=Profile+Views&color=1DA1F2&style=flat" alt="Profile Views" />
 </p>
